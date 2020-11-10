@@ -1,0 +1,82 @@
+.centrado{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    padding: 5px;
+    margin: 5px;
+    flex-wrap: wrap;
+}
+h2{
+    font-size: 60px;
+    font-family: initial;
+    color: rgb(79, 69, 226);
+}
+body{
+    font-size: 20px;
+    font-family: initial;
+}
+img{
+    width: 400px;
+    height: 400px;
+    margin: 5px;
+}
+h1{
+    font-size: 20px;
+    font-family: initial;
+}
+.piramides-guiza { 
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    border-radius: 5px;
+    flex: 1 1 auto;
+    order
+}
+.mausoleo-de-halicarnaso{
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    border-radius: 5px;
+    flex: 1 1 auto;
+}
+.jardines-colgantes-de-babilonia{
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    border-radius: 5px;
+    flex: 1 1 auto;
+}
+.faro-de-alejandria{
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    border-radius: 5px;
+    flex: 1 1 auto;
+}
+.estatua-de-zeus{
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    border-radius: 5px;
+    flex: 1 1 auto;
+}
+.colosos-de-rodas{
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    border-radius: 5px;
+    flex: 1 1 auto;
+}
+.templo-de-artemisa{ 
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    border-radius: 5px;
+    flex: 1 1 auto;
+}
+.contenedor{
+    display: flex;
+}
+.div{
+    display: flex;
+}
